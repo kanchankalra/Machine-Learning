@@ -1,1 +1,3 @@
-sequence and collection of items
+sequence and collection of items, enclosed in square brackets, Indexed
+Mutable - items in list can be changed
+emptylist = []
